@@ -1,5 +1,5 @@
 {
-  "name": "tweetie",
+  "name": "tweetiejs",
   "version": "3.0.0",
   "description": "Simple Twitter Feed Plugin that works with new Twitter 1.1 API.",
   "scripts": {
